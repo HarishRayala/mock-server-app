@@ -75,6 +75,7 @@
   ],
   "loginusers":[{
     "id":1,
+    "name":"harish",
     "email":"hari@gmail.com",
     "password":"123456789"
   }]
