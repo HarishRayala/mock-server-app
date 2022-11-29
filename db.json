@@ -73,5 +73,9 @@
       "id": 1
     }
   ],
-  "loginusers":[{}]
+  "loginusers":[{
+    "id":1,
+    "email":"hari@gmail.com",
+    "password":"123456789"
+  }]
 }
