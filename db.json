@@ -78,5 +78,10 @@
     "name":"harish",
     "email":"hari@gmail.com",
     "password":"123456789"
+  }],
+  "tasks":[{
+    "id":1,
+    "title":"React",
+    "status":true
   }]
 }
