@@ -13,7 +13,17 @@
       "email": "gnewbatt1@un.org"
     }
   ],
-  "posts":[],
+  "posts": [],
+  "user": [
+    {
+      "id": 1,
+      "name": "Harish",
+      "age": 25,
+      "gender": "Male",
+      "country": "India",
+      "profession": "Student"
+    }
+  ],
   "books": [
     {
       "bookimageurl": "https://m.media-amazon.com/images/I/710ESoXqVPL.jpg",
