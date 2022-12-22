@@ -14,6 +14,14 @@
     }
   ],
   "posts": [],
+  "notes": [
+    {
+      "id": 1,
+      "title": "Wake up in Morning",
+      "description": "Scheduled the alarm to ring at morning 6am",
+      "date": "12/22/2022"
+    }
+  ],
   "user": [
     {
       "id": 1,
@@ -24,9 +32,9 @@
       "profession": "Student"
     }
   ],
-  "jobpost":[
+  "jobpost": [
     {
-      "id":1,
+      "id": 1,
       "company": "Ellette",
       "postedAt": "2021-03-30",
       "city": "Gangtok",
@@ -38,7 +46,7 @@
       "language": "Java"
     },
     {
-      "id":2,
+      "id": 2,
       "company": "Jinny",
       "postedAt": "2021-09-09",
       "city": "Ludhiana",
